@@ -193,11 +193,9 @@ Save the emoji for user-facing content.
     - is / is not
         - For strings: is environment production -> env:prod,
           is not environment production -> -env:prod
-        - For booleans: is deprecated -> deprecation_time:*,
-          is not deprecated -> -deprecation_time:*
         - For arrays: is in zone 1 -> zones:1,
           is not in zone 1 -> -zones:1
-        - For json: is enabled -> enabled:true,
+        - For booleans: is enabled -> enabled:true,
           is not enabled -> -enabled:true
 ```
 
@@ -205,9 +203,8 @@ Save the emoji for user-facing content.
 ```
 For string, bool, JSON, and string[]: use `is` / `is not`:
 - String: `env:prod`, `-env:prod`
-- Bool: `deprecation_time:*`, `-deprecation_time:*`
 - Array: `zones:1`, `-zones:1`
-- JSON: `enabled:true`, `-enabled:true`
+- Bool: `enabled:true`, `-enabled:true`
 ```
 
 **Result**: 35% token reduction, identical comprehension.
@@ -257,7 +254,7 @@ For schema definitions, choose format based on complexity:
 
 **Flat format** (most efficient):
 ```
-aws_subnet_key:string;aws_vpc_key:string;block_device_mappings:json;boot_mode:string
+attribute_1:string;attribute_2:string;attribute_3:json;attribute_4:string
 ```
 
 ✅ Very token-efficient
@@ -268,10 +265,10 @@ aws_subnet_key:string;aws_vpc_key:string;block_device_mappings:json;boot_mode:st
 **JSON format** (when you need structure):
 ```json
 {
-  "aws_subnet_key": "string",
-  "aws_vpc_key": "string",
-  "block_device_mappings": "json",
-  "boot_mode": "string"
+  "attribute_1": "string",
+  "attribute_2": "string",
+  "attribute_3": "json",
+  "attribute_4": "string"
 }
 ```
 
@@ -341,4 +338,4 @@ Your first version won't be perfect. Your tenth version won't be perfect either.
 
 ---
 
-*Last updated: 2025-12-30*
+*Last updated: 2025-10-02*
