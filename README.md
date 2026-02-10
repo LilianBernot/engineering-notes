@@ -1,6 +1,6 @@
 # Engineering Notes
 
-A collection of technical blog posts and engineering notes on AI/ML architecture, distributed systems, and software engineering practices.
+A collection of technical blog posts and engineering notes on things I learn as a software engineering.
 
 ## Structure
 
