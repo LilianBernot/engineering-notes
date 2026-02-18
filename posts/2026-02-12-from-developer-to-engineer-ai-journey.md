@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Alexis Lê-Quôc, CTO at Datadog, wrote in 2026 in his blog post **The Year Coding Sped Up 100x**:
+A recent blog post that resonated with me: **The Year Coding Sped Up 100x**:
 
 > The point is not that software engineering is dead.
 >
