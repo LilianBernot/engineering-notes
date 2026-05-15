@@ -66,7 +66,7 @@ When I finally got two free days to work on it, I was four weeks out from the la
 
 They hadn't. So I started.
 
-I had notes. I had saved links, database queries, context scattered across docs and Slack threads. AI agents helped me reassemble all of it — regroup the data, spec the implementation step by step, proceed, test. By end of day one, I had shipped four PRs. One of them wasn't directly on the feature — it was tooling. That one hour of config work saved hours in the days that followed.
+I had notes. I had saved links, database queries, context scattered across docs and Slack threads. AI agents helped me reassemble all of it — regroup the data, spec the implementation step by step, proceed, test. By end of day one, I had shipped four PRs. One update on the database definition, one fixing multiple bugs in the existing code, one implementing part of the feature and the last one to build some tooling. That one hour of config work saved hours in the days that followed.
 
 Day two: three more PRs. Done.
 
