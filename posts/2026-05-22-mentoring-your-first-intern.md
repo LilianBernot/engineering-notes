@@ -2,17 +2,19 @@
 **Tags:** [Mentorship, Career Development, Being a SWE, Internship, Software Engineering]
 **Status:** Published
 
-## Introduction
+# Introduction
 
 I started full-time in Paris in November 2025. Three months later, in early March, my manager told me I'd be mentoring an intern joining the team. I had finished my own internship at Datadog six months earlier. The chair I'd been sitting in — the one with the laptop that wouldn't quite configure, the standups I didn't understand, the standing question of "what am I going to say at defense?" — that chair was about to be filled by someone else, and I was the one supposed to help them sit comfortably in it.
 
-This post is two things. First, the journey: what being an intern was actually like, and what changed when I became the mentor. Second, the part that matters more if you're about to mentor someone for the first time: the handful of things I wish my mentors had done, and the ones I tried to do once it was my turn.
+This post is two things. First, the journey: what being an intern was actually like, and what changed when I became the mentor. Second, the part that matters more if you're about to mentor someone for the first time: the handful of things I liked as an intern, and the ones I tried to do once it was my turn.
+
+# My Internship Experience At Datadog
 
 ## Two Kinds of Internships
 
 There are roughly two shapes an internship can take.
 
-The first is the **solo niche project**: you arrive, you're handed something specific, you have a mentor (or maybe not), and your job is to grind on that one thing for three or six months. Some schools love this shape — it sounds technically deep, easy to grade, easy to defend.
+The first is the **solo niche project**: you arrive, you're handed something specific, you have a mentor, and your job is to grind on that one thing for three or six months. Some schools love this shape — it sounds technically deep, easy to grade, easy to defend.
 
 The second is **being part of the team**: you don't get a single big project. You take small tasks, you go to all the meetings, you talk to everyone, you learn how the company actually works.
 
@@ -42,9 +44,11 @@ I learned more from the *shape* of that project than from finishing it. How the 
 
 Six months later I was full-time. Three months after that, I was mentoring.
 
-The thing that surprised me most was how recent the intern experience still felt — and how much that helped. I remembered which standup felt the most useless to attend (none of them, eventually). I remembered the specific frustration of typing the same command for the fourth time because I hadn't yet aliased it. I remembered not knowing what to say in 1-1s with senior engineers.
+The thing that surprised me most was how recent the intern experience still felt — and how much that helped. I remembered the specific frustration of typing the same command for the fourth time because I hadn't yet aliased it. I remembered not knowing what to say in 1-1s with senior engineers.
 
 What follows is the advice I'd give anyone about to mentor someone for the first time. It's not exhaustive. It's the handful of things that I think actually move the needle.
+
+# Some Opinionated Advices
 
 ## The First Week Is Setup Week
 
@@ -70,11 +74,11 @@ If your intern hits one PR a day for the first month, almost everything else tak
 
 ## Pair Programming Goes Both Ways
 
-I had hour-long pair sessions every day for the first two weeks with my intern. We swapped configurations. I showed them shortcuts. They asked questions that made me realize how arbitrary some of my habits were.
+I had hour-long pair sessions every day for the first two weeks with my intern. We swapped configurations. I showed her shortcuts. She asked questions that made me realize how arbitrary some of my habits were.
 
 This is one of those activities that sounds generous from the mentor's side but is genuinely two-sided.
 
-I remember an "innovation week" during my own internship where I worked closely with a senior engineer who was mostly a frontend dev. We built something together for a week. I walked out of that week with new tools, new ideas, and a noticeably smoother day-to-day workflow. That was someone choosing to spend a week pair-programming with an intern — and it visibly cost them nothing.
+I remember an "innovation week" during my own internship where I worked closely with a senior engineer who was mostly working on frontend. We built something together for a week. I walked out of that week with new tools, new ideas, and a noticeably smoother day-to-day workflow. That was someone choosing to spend a week pair-programming with an intern — and it visibly cost them nothing.
 
 Two things I didn't expect about being on the mentor side of pair programming:
 
@@ -96,7 +100,7 @@ At first glance, this looks like classic top-down dumping. The senior person pas
 
 That last one matters more than it sounds. It's a great thing to talk about in an internship defense, and it's a real differentiator if you're trying to convert into a full-time offer.
 
-More generally: **give your intern small tasks that you could do yourself, probably much faster.** It costs you some efficiency in the short term. In exchange, you see how they think, where they get stuck, what they get wrong. You get to be opinionated about how something should be done — which gives you both something concrete to talk about, and often makes you rethink your own habits when you hear yourself defend them.
+More generally: **give your intern small tasks that you could do yourself, probably much faster.** It costs you some efficiency in the short term. In exchange, you see how they think, where they get stuck, what they get wrong. You get to be opinionated about how something should be done — which gives you both something concrete to talk about, and often makes you rethink your own habits when you hear yourself defend them. Before the internship helps, your mentee will be an autonomous colleague who you can work with side-by-side.
 
 ## Explain the Why
 
@@ -108,23 +112,25 @@ This matters most for the meta-skill of **knowing what to talk about with people
 
 It's actually a hard problem. You know your life and theirs are different. You know your level of understanding is different. When you talk, they'll follow most of what you say. But when they talk, you'll often not even understand the *point* of their job — because you're trying to grasp a high-level description of something with cross-product, cross-team dependencies, or a technically obscure project that sits far from you in the stack.
 
-This is something I'm still working on now. I don't know how to teach it directly. But I know the antidote to the silence is *context*: "here's why I'm sending you to this person, here's what they care about, here's what would be interesting to ask them about." The mentor's job, more than handing out tasks, is handing out reasons.
+This is one of the various things I stated here that I'm actively working on. I don't know how to teach it directly. But I know the antidote to the silence is *context*: "here's why I'm sending you to this person, here's what they care about, here's what would be interesting to ask them about." The mentor's job, more than handing out tasks, is handing out reasons.
 
 ## Let Them Impress You
 
 A short note to end on.
 
-You're a few years ahead of your intern. Not decades. The gap is real, but it's nowhere near as big as it might feel in the early days. Let yourself be impressed by them. They're freshly out of school, intelligent, taught by good people, and they're going to do something you don't expect.
+You're a few years ahead of your intern, not decades (well, my mentor was but you're probably not). The gap is real, but it's nowhere near as big as it might feel in the early days. Let yourself be impressed by them. They're freshly out of school, intelligent, taught by good people, and they're going to do something you don't expect.
 
 Notice when it happens. Tell them.
 
-## Conclusion
+# Conclusion
 
 The mentor I tried to be was, more than anything, the mentor I wished I'd had: someone who'd walk me around the office, sit me at the right tables, explain *why* the boring meeting mattered, give me real work, and quietly mention that one PR a day was worth aiming for.
 
 Mentorship isn't a one-way transfer. The version of it that actually works runs in both directions — and the version that works best is the one where the mentor is honest enough to admit the intern is teaching them, too.
 
 If you're about to mentor your first intern: configure their first week, push them to ship daily, pair with them, delegate real work, explain the why. Then watch them, and let them impress you.
+
+*Thanks to Fred, Kévin, Benoit and Tiina, who showed me what good mentorship looked like before I had to do it myself. And to Doaâ — most of what's in the second half of this post is something I figured out while working with you.*
 
 ---
 
