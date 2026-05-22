@@ -87,6 +87,20 @@ Two things I didn't expect about being on the mentor side of pair programming:
 
 The framing I'd push back against is: "I'm helping the intern catch up." A better framing is: we're learning two different things from the same session.
 
+## When You're Not in the Same Office
+
+If your intern is in a different office than you are, almost everything above gets harder. You can't grab them for a quick pair session. You won't run into them in the kitchen. The small, low-stakes interactions where most context actually transfers — those mostly disappear.
+
+The single most useful thing I've seen for this: **set up daily syncs**. Even when there's nothing to talk about.
+
+There will be days where the intern says they don't need it. Keep it on the calendar anyway. The point isn't your need; it's giving them a guaranteed slot to surface a question, a blocker, or something they noticed and didn't know what to do with. A standing fifteen minutes removes the "is this worth interrupting them?" hesitation. It also forces them to practice stating the problem clearly, out loud, every day.
+
+When I was interning in New York, my mentor was in France. The time-zone gap was real but workable: there was a few-hour overlap in my morning and his afternoon. I learned to catch him before my day really started — check the unknowns and the complex bits of what I was about to do — and to catch him again later, just before he stopped working, to close the loop. That cadence saved me a lot of solo flailing.
+
+For projects he was less involved in, I leaned on a couple of colleagues in his office who picked up part of the mentor role informally. Two of them became, in practice, partial mentors. They weren't on the org chart for it, but they were there when I needed them.
+
+If you're mentoring someone in a different office, my strongest suggestion is: **find someone in their office that you trust, and that they can rely on.** Not officially. Just someone who'll grab lunch with them in the first week, answer a "stupid" question without making them feel stupid, and tell you privately if something's off. It's a quiet thing to set up, and it's worth a lot.
+
 ## Delegate Real Work
 
 A recent example: my manager was on-call and wanted to delegate part of it — at least the support questions — to the intern.
