@@ -97,7 +97,7 @@ There will be days where the intern says they don't need it. Keep it on the cale
 
 When I was interning in New York, my mentor was in France. The time-zone gap was real but workable: there was a few-hour overlap in my morning and his afternoon. I learned to catch him before my day really started — check the unknowns and the complex bits of what I was about to do — and to catch him again later, just before he stopped working, to close the loop. That cadence saved me a lot of solo flailing.
 
-For projects he was less involved in, I leaned on a couple of colleagues in his office who picked up part of the mentor role informally. Two of them became, in practice, partial mentors. They weren't on the org chart for it, but they were there when I needed them.
+For projects he was less involved in, I leaned on a couple of colleagues in my office who picked up part of the mentor role informally. Two of them became, in practice, partial mentors. They weren't on the org chart for it, but they were there when I needed them.
 
 If you're mentoring someone in a different office, my strongest suggestion is: **find someone in their office that you trust, and that they can rely on.** Not officially. Just someone who'll grab lunch with them in the first week, answer a "stupid" question without making them feel stupid, and tell you privately if something's off. It's a quiet thing to set up, and it's worth a lot.
 
